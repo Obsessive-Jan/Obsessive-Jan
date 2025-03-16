@@ -34,7 +34,7 @@
 </p> 
 
 <p align="center">
-<img width="600" src="https://64.media.tumblr.com/6dda039f8e2fa79459f5accf50a69892/tumblr_nqkvuaGx491thnuezo1_540.gif" alt="Riddler Arkham Knight turned away and saying riddle me this">
+<img width="600" src="https://64.media.tumblr.com/6dda039f8e2fa79459f5accf50a69892/tumblr_nqkvuaGx491thnuezo1_540.gif" alt="Riddler Arkham Knight turning around and pointing at YOU :3">
 </p> 
 
 <h2 align="center">
