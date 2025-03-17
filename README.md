@@ -1,4 +1,4 @@
-<h2 align="center"> 
+  <h2 align="center"> 
    ${\textsf{\color{DarkOliveGreen}⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ABOUT ME! ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆}}$   
 </h2> 
 
@@ -29,6 +29,11 @@
 ✮⋆˙ [LETTERBOXD](https://letterboxd.com/coby69/) ˙⋆✮
 </div>
 
+<div align="center">
+ 
+✮⋆˙ [TOYHOUSE](https://toyhou.se/WorldWideDestruction) ˙⋆✮
+</div>
+
 <p align="center">
 <img width="250" src="https://64.media.tumblr.com/e54097b05393e4e6ee8ea2a1bee500af/d1fe39a742a32485-07/s400x600/1a72df4c0e1bd2fc900c5deb5c7ab61fb183e9f9.png" alt="green divider with green retro landline phone in the middle">
 </p> 
@@ -42,12 +47,32 @@
 </h2>
 
 <p align="center">
-  - I don't really have a dni list...?
+  - Racists
 </p>
 
 <p align="center">
-  - IDK might change this later
+  - Ableists
 </p>
+
+<p align="center">
+  - Transphobes, Homophobes etc.
+</p>
+
+<h2 align="center"> ${\textsf{\color{Yellow} ! Disclaimer !}}$ </h2>
+
+<div align="center">
+<i>Before you continue or decide to int with me, please know that I consider myself
+ </div>
+
+ <div align="center">
+    
+   [<b>Proship/Anti-Harassment</b>](https://define-proship.carrd.co)
+</div>
+
+<div align="center">
+<i>Don't like? Don't interact!
+   The block button is free <3
+ </div>
 
  <h2 align="center"> ${\textsf{\color{Green}♪¸¸.•*¨*•. Interests! .•*¨*•.¸¸♪}}$ </h2>
  
@@ -220,4 +245,62 @@ Ski Aggu
  </div>
  <div align="center">
 AstralSpiff
+ </div>
+
+<h4 align="center"> 【☆】SHIPS【☆】  </h4>
+
+<p align="center">
+ <i>I'm always willing to talk about!!! ♡ ♡ ♡
+ </p>
+
+  <div align="center">
+<i><b>Lucas x Clancy (RE7)</b></i>
+ </div>
+ 
+ <div align="center">
+<i><b>Bill x Ted</b></i>
+ </div>
+
+ <div align="center">
+Wincest (SPN) + J2 (Actor RPF)
+ </div>
+
+ <div align="center">
+<i><b>Norgeant, Nortrell, Sargetrell, Webbonso, Strollonso, Norlonso, Norstappen, Leclercest etc! (F1 RPF)</b></i>
+ </div>
+
+ <div align="center">
+<i><b>Halman (2001)</b></i>
+ </div>
+
+<div align="center">
+JimCurly (MW)
+ </div>
+
+ <div align="center">
+Chouse (House MD)
+ </div>
+
+  <div align="center">
+Convin (DBH)
+ </div>
+
+  <div align="center">
+<i><b>Riddlecrow, SladeRobin (DC)</b></i>
+ </div>
+
+<div align="center">
+CharDen (IASIP)
+ </div>
+
+<div align="center">
+SaiKai (Saiki k)
+ </div>
+
+<div align="center">
+<i><b>Ayaitto (Genshin)</b></i>
+ </div>
+
+<div align="center">
+<i><b>Jlud (RPF)</b></i>
  </div>
