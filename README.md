@@ -1,3 +1,5 @@
+ <my coding is doo doo water and could probably be made easier if i actually learnt html SHUSH>
+  
   <h2 align="center"> 
    ${\textsf{\color{DarkOliveGreen}⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ABOUT ME! ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆}}$   
 </h2> 
