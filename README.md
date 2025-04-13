@@ -74,16 +74,19 @@
 <div align="center">
 <i>The link is a short explanation but PLEASE do your own research on the topic
 
-In regards to being Proship/Anti-Harassment, I belive in no contact for most paras, I follow and advocate don't like don't int/read, using exclude tags to filter content I want to see (specifically fanfics in thiscontext) and the saying YKINMKATO (if you don't know what that means google exists to include the reason the term exists to begin with). 
 
-In regards to Anti-Censorship, I believe stuff should be sorted in the right place and shouldn't be anywhere random (e.g. specific sites that house whatever it is you're looking for for each topic) and that it is the young person's parents to supervise their child(ren) and an adult's own responsibility to avoid subjects/topics they know they do not enjoy and if they do find it, to simply block and leave
+In regards to being Proship/Anti-Harassment, I belive in no contact for most paras, that everything i take part in reading/writing/drawing is FICTION, I follow and advocate don't like don't int/read, using exclude tags to filter content I want to see (specifically fanfics in this context) and the saying YKINMKATO (if you don't know what these mean google exists plus includes the reason the term exists to begin with, doing your own research helps). 
+
+In regards to Anti-Censorship, I believe stuff should be sorted in the right place and shouldn't be anywhere random (e.g. specific sites that house whatever it is you're looking for, for each topic) and that it is a young person's parents responsibility to supervise their child(ren) and an adult's own responsibility to avoid subjects/topics they know they do not enjoy and if they do find it, to simply block and leave
  
- Don't like me? Don't interact! 
-   The block button is free and thats the great thing about it
+ Its 100% ok for us to have different views and still interact and be friends/mutuals as long as you do not actively _harass_ the things I and others like 
+ 
+ However, If you don't like me? Its also ok to not interact
+   The block button is free and thats the great thing about it, if you want to use it!
 
-   If you're still here, I thank you for reading all that. and now...
+   If you're still here, I thank you for reading all that. I feel semi passionate about these views
  </div>
-
+ 
  <h2 align="center"> ${\textsf{\color{Green}♪¸¸.•*¨*•. Interests! .•*¨*•.¸¸♪}}$ </h2>
  
  <div align="center">
