@@ -68,12 +68,20 @@
 
  <div align="center">
     
-   [<b>Proship/Anti-Harassment</b>](https://define-proship.carrd.co)
+   [<b>Proship/Anti-Harassment/Anti-Censorship</b>](https://define-proship.carrd.co)
 </div>
 
 <div align="center">
-<i>Don't like? Don't interact!
-   The block button is free <3
+<i>The link is a short explanation but PLEASE do your own research on the topic
+
+In regards to being Proship/Anti-Harassment, I belive in no contact for most paras, I follow and advocate don't like don't int/read, using exclude tags to filter content I want to see (specifically fanfics in thiscontext) and the saying YKINMKATO (if you don't know what that means google exists to include the reason the term exists to begin with). 
+
+In regards to Anti-Censorship, I believe stuff should be sorted in the right place and shouldn't be anywhere random (e.g. specific sites that house whatever it is you're looking for for each topic) and that it is the young person's parents to supervise their child(ren) and an adult's own responsibility to avoid subjects/topics they know they do not enjoy and if they do find it, to simply block and leave
+ 
+ Don't like me? Don't interact! 
+   The block button is free and thats the great thing about it
+
+   If you're still here, I thank you for reading all that. and now...
  </div>
 
  <h2 align="center"> ${\textsf{\color{Green}♪¸¸.•*¨*•. Interests! .•*¨*•.¸¸♪}}$ </h2>
