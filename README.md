@@ -171,13 +171,19 @@ The Boys
 Garfield
  </div>
  <div align="center">
-Newsies (+ Broadway)
+Newsies
  </div>
  <div align="center">
 Ted Lasso
  </div>
  <div align="center">
 IASIP
+ </div>
+ <div align="center">
+South Park
+ </div>
+ <div align="center">
+Hazbin Hotel
  </div>
  
   <h4 align="center"> 【☆】!PEOPLE/CHRACTERS I LOVE RN!【☆】  </h4>
@@ -216,9 +222,6 @@ Logan Sargeant (F1/IndyCar)
 <i><b>Power Ring (DC)</b></i>
  </div>
    <div align="center">
-Gavin Reed (DBH)
- </div>
-   <div align="center">
 Sam & Dean Winchester (SPN)
  </div>
    <div align="center">
@@ -227,7 +230,18 @@ Robert Chase (House)
    <div align="center">
 <i><b>Bill & Ted</b></i>
  </div>
+
+ <h4 align="center"> 【☆】MUSICALS【☆】  </h4>
  
+ <div align="center">
+NPMD + TGWDLM + WB
+ </div>
+ <div align="center">
+Beetlejuice
+ </div>
+ <div align="center">
+Newsies
+ </div>
  
 
   <h4 align="center"> 【☆】MISC【☆】  </h4>
@@ -299,7 +313,7 @@ Convin (DBH)
  </div>
 
   <div align="center">
-<i><b>Riddlecrow, SladeRobin (DC)</b></i>
+<i><b>Riddlecrow/Sciddler, SladeRobin (DC)</b></i>
  </div>
 
 <div align="center">
