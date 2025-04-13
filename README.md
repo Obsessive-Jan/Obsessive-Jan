@@ -68,23 +68,23 @@
 
  <div align="center">
     
-   [<b>Proship/Anti-Harassment/Anti-Censorship</b>](https://define-proship.carrd.co)
+   [<b>Proship/Anti-Harassment/Anti-Censorship</b>](https://fanlore.org/wiki/Pro-shipper)
 </div>
 
 <div align="center">
-<i>The link is a short explanation but PLEASE do your own research on the topic
+<i>The link is a great in depth explanation but PLEASE do your own research on the topic to make up your own opinion on the subjects, be your own person
 
 
-In regards to being Proship/Anti-Harassment, I belive in no contact for most paras, that everything i take part in reading/writing/drawing is FICTION, I follow and advocate don't like don't int/read, using exclude tags to filter content I want to see (specifically fanfics in this context) and the saying YKINMKATO (if you don't know what these mean google exists plus includes the reason the term exists to begin with, doing your own research helps). 
+In regards to being Proship/Anti-Harassment, I belive in no contact for most paras, that everything i take part in reading/writing/drawing is FICTION, I follow and advocate don't like, don't int/read and ship and let ship, using exclude tags to filter content (specifically fanfics in this context) and the saying YKINMKATO. Proship ≠ Problematic Ship(ing), Proship = Pro(prefix definion: Favouring; Supporting) Shipping
 
-In regards to Anti-Censorship, I believe stuff should be sorted in the right place and shouldn't be anywhere random (e.g. specific sites that house whatever it is you're looking for, for each topic) and that it is a young person's parents responsibility to supervise their child(ren) and an adult's own responsibility to avoid subjects/topics they know they do not enjoy and if they do find it, to simply block and leave
+In regards to Anti-Censorship, I believe stuff should be sorted in the right place and shouldn't be anywhere random (e.g. specific sites that house whatever it is you're looking for, for each topic) and that it is a young person's parents responsibility to supervise their child(ren) and an adult's own responsibility to avoid subjects/topics they know they do not enjoy and if they do find it, to simply block or report (when against t&s or real laws) and/or leave. I encourage that if you are a part of the LGBTQ+ and are pro-censorship or neutral and haven't  looked too deep, to do some research on the history of censorship within the LGBTQ+ before making up your mind.
  
- Its 100% ok for us to have different views and still interact and be friends/mutuals as long as you do not actively _harass_ the things I and others like 
+ Its 100% ok for us to have different views and still interact and be friends/mutuals as long as you do not actively _harass_ the things I and others like
  
- However, If you don't like me? Its also ok to not interact
-   The block button is free and thats the great thing about it, if you want to use it!
+ However, If you don't like me, it is also ok to not interact
+   The close tab and block button are free and thats the great thing about it, if you want to use it!
 
-   If you're still here, I thank you for reading all that. I feel semi passionate about these views
+   If you're still here, I thank you for reading all that and I also apologise for ranting, I feel semi passionate about these views sometimes
  </div>
  
  <h2 align="center"> ${\textsf{\color{Green}♪¸¸.•*¨*•. Interests! .•*¨*•.¸¸♪}}$ </h2>
