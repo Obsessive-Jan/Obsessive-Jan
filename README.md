@@ -323,9 +323,33 @@ CharDen (IASIP)
 <div align="center">
 SaiKai (Saiki k)
  </div>
+ 
+ <div align="center">
+NatShig (MHA)
+ </div>
+ 
+ <div align="center">
+<i><b>Young Reaper x Tom (ADD 1999)</b></i>
+ </div>
+
+ <div align="center">
+<i><b>Michie (NPMD)</b></i>
+ </div>
 
 <div align="center">
 <i><b>Ayaitto (Genshin)</b></i>
+ </div>
+
+ <div align="center">
+Gray x Loke/Leo (Fairy Tail)
+ </div>
+
+ <div align="center">
+Zolu (One Piece)
+ </div>
+
+ <div align="center">
+Coby/Koby x X Drake (One Piece)
  </div>
 
 <div align="center">
