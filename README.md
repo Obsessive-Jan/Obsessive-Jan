@@ -137,6 +137,12 @@ Animal Crossing
    <div align="center">
 Ni No Kuni
    </div>
+   <div align="center">
+Genshin Impact
+   </div>
+   <div align="center">
+Reverse 1999
+   </div>
 
  <h4 align="center"> 【☆】MOVIES/SHOWS【☆】  </h4>
 
@@ -156,7 +162,7 @@ Hannibal (Tv Series)
 <i><b>Bill & Ted</b></i>
  </div>
  <div align="center">
-<i><b>2001: A Space Odyssey + 2010</b></i>
+<i><b>2001: A Space Odyssey + 2010:  The Year We Make Contact</b></i>
  </div>
  <div align="center">
 <i><b>Cars</b></i>
@@ -185,6 +191,12 @@ South Park
  <div align="center">
 Hazbin Hotel
  </div>
+  <div align="center">
+Supernatural
+ </div>
+ <div align="center">
+LazyTown
+   </div>
  
   <h4 align="center"> 【☆】!PEOPLE/CHRACTERS I LOVE RN!【☆】  </h4>
 
@@ -230,6 +242,9 @@ Robert Chase (House)
    <div align="center">
 <i><b>Bill & Ted</b></i>
  </div>
+ <div align="center">
+Archangel Gabriel
+ </div>
 
  <h4 align="center"> 【☆】MUSICALS【☆】  </h4>
  
@@ -242,6 +257,9 @@ Beetlejuice
  <div align="center">
 Newsies
  </div>
+ <div align="center">
+Heathers
+   </div>
  
 
   <h4 align="center"> 【☆】MISC【☆】  </h4>
@@ -289,7 +307,7 @@ AstralSpiff
  </div>
 
  <div align="center">
-Wincest (SPN) + J2 (Actor RPF)
+Wincest/Gencest (SPN) + J2 (Actor RPF) + Dean/Sam/Spencer (SPN + CM)
  </div>
 
  <div align="center">
@@ -354,4 +372,8 @@ Coby/Koby x X Drake (One Piece)
 
 <div align="center">
 <i><b>Jlud (RPF)</b></i>
+ </div>
+
+ <div align="center">
+Homura/Madoka (MM)
  </div>
