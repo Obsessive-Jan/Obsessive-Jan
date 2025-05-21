@@ -44,22 +44,6 @@
 <img width="550" src="https://64.media.tumblr.com/b5adba3cf59f468ccdb3dfa17ead3d10/tumblr_nqkvuaGx491thnuezo3_540.gif" alt="Riddler Arkham Knight turning around and pointing at YOU :3">
 </p> 
 
-<h2 align="center">
-  ${\textsf{\color{FireBrick}.˚⌦ DNI .˚⌦}}$
-</h2>
-
-<p align="center">
-  - Racists
-</p>
-
-<p align="center">
-  - Ableists
-</p>
-
-<p align="center">
-  - Transphobes, Homophobes etc.
-</p>
-
 <h2 align="center"> ${\textsf{\color{Yellow} ! Disclaimer !}}$ </h2>
 
 <div align="center">
@@ -75,9 +59,9 @@
 <i>The link is a great in depth explanation but PLEASE do your own research on the topic to make up your own opinion on the subjects, be your own person
 
 
-In regards to being Proship/Anti-Harassment, I belive in no contact for most paras, that everything i take part in reading/writing/drawing is FICTION, I follow and advocate don't like, don't int/read and ship and let ship, using exclude tags to filter content (specifically fanfics in this context) and the saying YKINMKATO. Proship ≠ Problematic Ship(ing), Proship = Pro(prefix definion: Favouring; Supporting) Shipping
+In regards to being Proship/Anti-Harassment, I belive in no contact for most paras, that everything i take part in reading/writing/drawing is FICTION, I follow and advocate don't like, don't int/read and ship and let ship, using exclude tags to filter content (specifically fanfics in this context) and the saying YKINMKATO. Proship ≠ Problematic Ship(ing), Proship = Pro(prefix definion: Favouring; Supporting) Ship(ping). Don't use real laws on fictional characters or situations
 
-In regards to Anti-Censorship, I believe stuff should be sorted in the right place and shouldn't be anywhere random (e.g. specific sites that house whatever it is you're looking for, for each topic) and that it is a young person's parents responsibility to supervise their child(ren) and an adult's own responsibility to avoid subjects/topics they know they do not enjoy and if they do find it, to simply block or report (when against t&s or real laws) and/or leave. I encourage that if you are a part of the LGBTQ+ and are pro-censorship or neutral and haven't  looked too deep, to do some research on the history of censorship within the LGBTQ+ before making up your mind.
+In regards to Anti-Censorship, I believe stuff should be sorted in the right place, labelled/tagged correctly and shouldn't be anywhere random (e.g. nsfw on yt). It is a young person's parents responsibility to supervise their child(ren) and an adult's own responsibility to avoid subjects/topics they know they do not enjoy and if they do find it, to simply block or report (when against t&s or real laws) and/or leave.
  
  Its 100% ok for us to have different views and still interact and be friends/mutuals as long as you do not actively _harass_ the things I and others like
  
