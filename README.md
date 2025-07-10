@@ -1,4 +1,4 @@
- <my coding is doo doo water and could probably be made easier if i actually learnt html SHUSH>
+ <my html coding is not good, I do not know much html and this is probably my second time ever using it, lmk if there are any improvements I can make>
   
   <h2 align="center"> 
    ${\textsf{\color{DarkOliveGreen}⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ABOUT ME! ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆}}$   
@@ -274,7 +274,7 @@ Psyculturists
 <h4 align="center"> 【☆】SHIPS【☆】  </h4>
 
 <p align="center">
- <i>I'm always willing to talk about!!! ♡ ♡ ♡ 
+ <i>I'm always willing to talk about!!! ♡ 
  </p>
 
   <div align="center">
@@ -282,7 +282,7 @@ Psyculturists
  </div>
  
  <div align="center">
-<i><b>Bill/Ted</b></i>
+Bill/Ted
  </div>
 
  <div align="center">
@@ -290,7 +290,7 @@ Wincest/Gencest (SPN) + J2 (Actor RPF) + Dean/Sam/Spencer (SPN + CM)
  </div>
 
  <div align="center">
-<i><b>Norgeant, Nortrell, Sargetrell, Webbonso, Strollonso, Norstappen, Leclercest etc! (F1 RPF)</b></i>
+Norgeant, Nortrell, Sargetrell, Webbonso, Strollonso, Norstappen, Leclercest etc! (F1 RPF)
  </div>
 
  <div align="center">
@@ -354,13 +354,13 @@ Homura/Madoka (MM)
  </div>
 
  <div align="center">
-Sparkle/Sampo (HSR)
+<i><b>Sparkle/Sampo (HSR)</b></i>
  </div>
 
  <div align="center">
-Chainshipping
+Chainshipping (Saw)
  </div>
 
 <div align="center">
-PerfectWorldShipping
+PerfectWorldShipping (Pokemon)
  </div>
