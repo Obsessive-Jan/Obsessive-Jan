@@ -1,4 +1,4 @@
-<!my html coding is not good, I do not know much html and this is probably my second time ever using it, lmk if there are any improvements I can make>
+<!-- my html coding is not good, I do not know much html and this is probably my second time ever using it, lmk if there are any improvements I can make -->
   
   <h2 align="center"> 
    ${\textsf{\color{DarkOliveGreen}⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ABOUT ME! ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆}}$   
