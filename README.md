@@ -9,7 +9,7 @@
 </p> 
 
 <p align=center>
-  Heyo! Edward/Coby are the names i usually go by (feel free to give me nicknames anytime) and this github was only made recently so it will get updated later down the line. If you want  to be friends and stuff, go ahead to my tumblr and DM me, I'm happy to chat to anyone on there or Discord ^^
+  Heyo! Edward/Coby are the names i usually go by. If you want  to be friends and stuff, go ahead to my tumblr and DM me, I'm happy to chat to anyone on there or Discord ^^
 </p>
 
 <p align=center>
@@ -28,7 +28,7 @@
 
 <div align="center">
  
-✮⋆˙ [LETTERBOXD](https://letterboxd.com/coby69/) ˙⋆✮
+✮⋆˙ [LETTERBOXD(+ANILIST)](https://letterboxd.com/coby69/) ˙⋆✮
 </div>
 
 <div align="center">
