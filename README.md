@@ -52,23 +52,21 @@
 
  <div align="center">
     
-   [<b>Proship/Anti-Harassment/Anti-Censorship</b>](https://fanlore.org/wiki/Pro-shipper)
+   [<b>Proship/Anti-Harassment</b>](https://fanlore.org/wiki/Pro-shipper)
 </div>
 
 <div align="center">
 <i>The link is a great in depth explanation but PLEASE do your own research on the topic to make up your own opinion on the subjects, be your own person
 
 
-In regards to being Proship/Anti-Harassment, I belive in no contact for most paras, that everything i take part in reading/writing/drawing is FICTION, I follow and advocate don't like, don't int/read and ship and let ship, using exclude tags to filter content (specifically fanfics in this context) and the saying YKINMKATO. Proship ≠ Problematic Ship(ing), Proship = Pro(prefix definion: Favouring; Supporting) Ship(ping). Don't use real laws on fictional characters or situations
-
-In regards to Anti-Censorship, I believe stuff should be sorted in the right place, labelled/tagged correctly and shouldn't be anywhere random (e.g. nsfw on yt). It is a young person's parents responsibility to supervise their child(ren) and an adult's own responsibility to avoid subjects/topics they know they do not enjoy and if they do find it, to simply block or report (when against t&s or real laws) and/or leave.
+In regards to being Proship/Anti-Harassment, I belive in no contact for illegal paras, that everything I take part in reading/writing/drawing is FICTION and this doesn't normalises or support anything in reality, I follow and advocate don't like, don't int/read as well as ship and let ship, using exclude tags to filter content (specifically fanfics in this context) and the saying YKINMKATO. Proship ≠ Problematic Ship(ing), Proship = Pro(prefix definion: Favouring; Supporting) Ship(ping). I don't agree with using real laws on fictional characters or situations
  
- Its 100% ok for us to have different views and still interact and be friends/mutuals as long as you do not actively _harass_ the things I and others like
+ Its 100% ok for us to have different views and still interact and be friends/mutuals as long as you do not actively _harass_ the things I and others like.
  
- However, If you don't like me, it is also ok to not interact
+ However, If you don't like these views, it is also ok to not interact
    The close tab and block button are free and thats the great thing about it, if you want to use it!
 
-   If you're still here, I thank you for reading all that and I also apologise for ranting, I feel semi passionate about these views sometimes
+   If you're still here, I thank you for reading all that and I also apologise for ranting, I feel semi passionate about these thinks sometimes.
  </div>
  
  <h2 align="center"> ${\textsf{\color{Green}♪¸¸.•*¨*•. Interests! .•*¨*•.¸¸♪}}$ </h2>
@@ -97,15 +95,9 @@ Papa Louie/Flipline
    <div align="center">
 Minecraft
    </div>
- <div align="center">
-HSR
- </div>
   <div align="center">
 Assassin's Creed
   </div>
-   <div align="center">
-Resident Evil
-   </div>
    <div align="center">
 Detroit:Become Human
  </div>
@@ -125,7 +117,7 @@ Ni No Kuni
 Genshin Impact
    </div>
    <div align="center">
-Reverse 1999
+Honkai Star Rail
    </div>
 
  <h4 align="center"> 【☆】MOVIES/SHOWS【☆】  </h4>
@@ -206,7 +198,10 @@ Logan Sargeant (F1/IndyCar)
 <i><b>Fernando Alonso (F1)</b></i>
  </div>
    <div align="center">
-<i><b>Lando Norris (F1)</b></i>
+Sampo Koski (HSR)
+ </div>
+ <div align="center">
+Mr. Reca (HSR)
  </div>
   <div align="center">
 <i><b>Riddler (DC)</b></i>
@@ -266,28 +261,28 @@ Pigeons
    <div align="center">
 <i><b>Jerma985</b></i>
  </div>
-   <div align="center">
-Max Fewtrell
- </div>
-   <div align="center">
-Ski Aggu
- </div>
  <div align="center">
 AstralSpiff
+ </div>
+ <div align="center">
+ManlyBadassHero
+ </div>
+ <div align="center">
+Psyculturists
  </div>
 
 <h4 align="center"> 【☆】SHIPS【☆】  </h4>
 
 <p align="center">
- <i>I'm always willing to talk about!!! ♡ ♡ ♡
+ <i>I'm always willing to talk about!!! ♡ ♡ ♡ 
  </p>
 
   <div align="center">
-<i><b>Lucas x Clancy (RE7)</b></i>
+<i><b>Lucas/Clancy (RE7)</b></i>
  </div>
  
  <div align="center">
-<i><b>Bill x Ted</b></i>
+<i><b>Bill/Ted</b></i>
  </div>
 
  <div align="center">
@@ -295,7 +290,7 @@ Wincest/Gencest (SPN) + J2 (Actor RPF) + Dean/Sam/Spencer (SPN + CM)
  </div>
 
  <div align="center">
-<i><b>Norgeant, Nortrell, Sargetrell, Webbonso, Strollonso, Norlonso, Norstappen, Leclercest etc! (F1 RPF)</b></i>
+<i><b>Norgeant, Nortrell, Sargetrell, Webbonso, Strollonso, Norstappen, Leclercest etc! (F1 RPF)</b></i>
  </div>
 
  <div align="center">
@@ -331,11 +326,7 @@ NatShig (MHA)
  </div>
  
  <div align="center">
-<i><b>Young Reaper x Tom (ADD 1999)</b></i>
- </div>
-
- <div align="center">
-<i><b>Michie (NPMD)</b></i>
+<i><b>Young Reaper/Tom (ADD 1999)</b></i>
  </div>
 
 <div align="center">
@@ -343,7 +334,7 @@ NatShig (MHA)
  </div>
 
  <div align="center">
-Gray x Loke/Leo (Fairy Tail)
+Gray/Loke(leo) (Fairy Tail)
  </div>
 
  <div align="center">
@@ -351,7 +342,7 @@ Zolu (One Piece)
  </div>
 
  <div align="center">
-Coby/Koby x X Drake (One Piece)
+Coby/X Drake (One Piece)
  </div>
 
 <div align="center">
@@ -360,4 +351,16 @@ Coby/Koby x X Drake (One Piece)
 
  <div align="center">
 Homura/Madoka (MM)
+ </div>
+
+ <div align="center">
+Sparkle/Sampo (HSR)
+ </div>
+
+ <div align="center">
+Chainshipping
+ </div>
+
+<div align="center">
+PerfectWorldShipping
  </div>
