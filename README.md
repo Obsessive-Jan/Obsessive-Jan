@@ -77,15 +77,13 @@ In regards to being Proship/Anti-Harassment, I belive in no contact for illegal 
  
  <h4 align="center"> 【☆】GAMES【☆】  </h4>
 
- <p align="centre">
- <br> <i><b>Batman Arkham</b></i> 
- <br> Sam & Max
- <br> Metal Gear Solid
+ <p style="text-align:center;">
+   <br> <i><b>Batman Arkham</b></i>
+   <br> Sam & Max 
+   <br> Metal Gear Solid
+   <br> Yakuza/Like a Dragon
  </p>
 
- <div align="center">
-<i><b>Yakuza/Like a Dragon</b></i>
- </div>
   <div align="center">
 Papa Louie/Flipline
   </div>
