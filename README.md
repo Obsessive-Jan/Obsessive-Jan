@@ -16,7 +16,7 @@
   Anyways, welcome to my "bio" and I hope you enjoy your stay! ♡
 </p>
 
-<table align="center" border="0" cellPadding="0" cellSpacing="0" style="border-collapse:collapse;">
+<table align="center" style="border:0; cellPadding:0; cellSpacing:0;">
 <tr>
 <td><img width="20" src="https://equity3.sites.olt.ubc.ca/files/2022/10/Demisexual_Flag-360x216.jpg" alt="demisexual flag"></td>
   
