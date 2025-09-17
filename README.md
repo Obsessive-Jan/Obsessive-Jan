@@ -16,30 +16,19 @@
   Anyways, welcome to my "bio" and I hope you enjoy your stay! ♡
 </p>
 
-<table align="center" border="none">
-<tr>
-<td><img width="20" src="https://equity3.sites.olt.ubc.ca/files/2022/10/Demisexual_Flag-360x216.jpg" alt="demisexual flag"></td>
-  
-<td>
-  <img width="20" src="https://equity3.sites.olt.ubc.ca/files/2022/10/Bandeira_Demirromantica-360x216.jpg" alt="demiromantic flag"></td>
+<div align="center">
+  <img width="30" src="https://equity3.sites.olt.ubc.ca/files/2022/10/Demisexual_Flag-360x216.jpg" alt="demisexual flag">
+  <img width="30" src="https://equity3.sites.olt.ubc.ca/files/2022/10/Bandeira_Demirromantica-360x216.jpg" alt="demiromantic flag">
+  <img width="30" src="https://equity3.sites.olt.ubc.ca/files/2022/10/Omnisexuality_flag.svg_-360x216.png" alt="Omnisexual flag">
+    <br><img width="30" src="https://equity3.sites.olt.ubc.ca/files/2022/10/Genderqueer_pride_flag-360x216.png" alt="genderqueer flag">
+  <img width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxnCrx-Tk3tUGxbqzr5zHGX3Fh-11bFAjQYXuLUwRHZQ&s=10" alt="ambiamorous flag">
+  <img width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoMBIQvDNEJkmfvif5aT_rI-_8OMlnlRUhDkr2kDHiEQ&s=10" alt="objectum flag">
+</div>
 
-<td>
-  <img width="20" src="https://equity3.sites.olt.ubc.ca/files/2022/10/Omnisexuality_flag.svg_-360x216.png" alt="Omnisexual flag"></td>
-</tr> 
-<tr>
-  <td>
-    <img width="20" src="https://equity3.sites.olt.ubc.ca/files/2022/10/Genderqueer_pride_flag-360x216.png" alt="genderqueer flag"></td>
-
-<td>
-  <img width="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxnCrx-Tk3tUGxbqzr5zHGX3Fh-11bFAjQYXuLUwRHZQ&s=10" alt="ambiamorous flag"></td>
-
-<td>
-  <img width="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoMBIQvDNEJkmfvif5aT_rI-_8OMlnlRUhDkr2kDHiEQ&s=10" alt="objectum flag"></td>
-</tr>
-</table>
 
 <div align="center">
- 
+ <br>
+  
 ✮⋆˙ [𝖳𝖴𝖬𝖡𝖫𝖱](https://www.tumblr.com/obsessive-jan) ˙⋆✮
 </div>
 
