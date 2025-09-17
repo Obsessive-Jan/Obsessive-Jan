@@ -80,7 +80,7 @@ In regards to being Proship/Anti-Harassment, I belive in no contact for illegal 
    If you're still here, I thank you for reading all that and I also apologise for ranting, I feel semi passionate about these thinks sometimes.
  </div>
  
- <h2 align="center"> ${\textsf{\color{Green}♪¸¸.•*¨*•. Interests! .•*¨*•.¸¸♪}}$ </h2>
+ <h2 align="center"> ${\textsf{\color{DarkOliveGreen}♪¸¸.•*¨*•. Interests! .•*¨*•.¸¸♪}}$ </h2>
  
  <div align="center">
    ♡ <i><b>italics+bold</b></i> indicates stuff I know a lot about or really like ♡
