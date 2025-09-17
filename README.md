@@ -64,7 +64,7 @@ In regards to being Proship/Anti-Harassment, I belive in no contact for illegal 
  Its 100% ok for us to have different views and still interact and be friends/mutuals as long as you do not actively _harass_ the things I and others like.
  
  However, If you don't like these views, it is also ok to not interact
-   The close tab and block button are free and thats the great thing about it, if you want to use it!
+   the close tab and block button are free and thats the great thing about it, if you want to use it!
 
    If you're still here, I thank you for reading all that and I also apologise for ranting, I feel semi passionate about these thinks sometimes.
  </div>
@@ -76,6 +76,12 @@ In regards to being Proship/Anti-Harassment, I belive in no contact for illegal 
  </div>
  
  <h4 align="center"> 【☆】GAMES【☆】  </h4>
+
+ <body align="centre">
+ test 
+ test
+ test
+ </body>
 
  <div align="center">
 <i><b>Batman Arkham</b></i>
@@ -93,12 +99,6 @@ Metal Gear Solid
 Papa Louie/Flipline
   </div>
    <div align="center">
-Minecraft
-   </div>
-  <div align="center">
-Assassin's Creed
-  </div>
-   <div align="center">
 Detroit:Become Human
  </div>
 <div align="center">
@@ -111,15 +111,15 @@ Mouthwashing
 Animal Crossing
   </div>
    <div align="center">
-Ni No Kuni
-   </div>
-   <div align="center">
 Genshin Impact
    </div>
    <div align="center">
 Honkai Star Rail
    </div>
-
+<div align="center">
+Overwatch 2
+   </div>
+   
  <h4 align="center"> 【☆】MOVIES/SHOWS【☆】  </h4>
 
  <div align="center">
@@ -129,7 +129,7 @@ Honkai Star Rail
 BBC Ghosts
  </div>
  <div align="center">
-Hannibal (Tv Series)
+Inbetweeners (UK)
  </div>
  <div align="center">
 <i><b>Anything Batman Related</b></i>
@@ -185,9 +185,6 @@ Emelia (Dollhouse)
   <div align="center">
 <i><b>HAL9000 (2001)</b></i>
  </div>
-  <div align="center">
-Dr Chandra (2001)
- </div>
    <div align="center">
 <i><b>Jan Maas (Ted Lasso)</b></i>
  </div>
@@ -195,13 +192,10 @@ Dr Chandra (2001)
 Logan Sargeant (F1/IndyCar)
  </div>
    <div align="center">
-<i><b>Fernando Alonso (F1)</b></i>
+Fernando Alonso (F1)
  </div>
    <div align="center">
 Sampo Koski (HSR)
- </div>
- <div align="center">
-Mr. Reca (HSR)
  </div>
   <div align="center">
 <i><b>Riddler (DC)</b></i>
@@ -218,12 +212,12 @@ Sam & Dean Winchester (SPN)
    <div align="center">
 Robert Chase (House)
  </div>
-   <div align="center">
-<i><b>Bill & Ted</b></i>
- </div>
  <div align="center">
 Archangel Gabriel
  </div>
+ <div align="center">
+Graham Coxon
+   </div>
 
  <h4 align="center"> 【☆】MUSICALS【☆】  </h4>
  
@@ -268,13 +262,13 @@ AstralSpiff
 ManlyBadassHero
  </div>
  <div align="center">
-Psyculturists
+Blur
  </div>
 
 <h4 align="center"> 【☆】SHIPS【☆】  </h4>
 
 <p align="center">
- <i>I'm always willing to talk about!!! ♡ 
+ <i>I'm always willing to talk about!!! in no particular order ♡ 
  </p>
 
   <div align="center">
@@ -333,18 +327,6 @@ NatShig (MHA)
 <i><b>Ayaitto (Genshin)</b></i>
  </div>
 
- <div align="center">
-Gray/Loke(leo) (Fairy Tail)
- </div>
-
- <div align="center">
-Zolu (One Piece)
- </div>
-
- <div align="center">
-Coby/X Drake (One Piece)
- </div>
-
 <div align="center">
 <i><b>Jlud (RPF)</b></i>
  </div>
@@ -364,3 +346,11 @@ Chainshipping (Saw)
 <div align="center">
 PerfectWorldShipping (Pokemon)
  </div>
+
+<div align="center">
+Gramon (Blur)
+   </div>
+
+   <div align="center">
+Gallaghercest
+   </div>
