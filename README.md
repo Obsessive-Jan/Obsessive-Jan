@@ -16,6 +16,34 @@
   Anyways, welcome to my "bio" and I hope you enjoy your stay! ♡
 </p>
 
+<table>
+<tr>
+<td><img width="50" src="https://equity3.sites.olt.ubc.ca/files/2022/10/Demisexual_Flag-360x216.jpg" alt="demisexual flag">
+</td>
+  
+<td>
+  <img width="50" src="https://equity3.sites.olt.ubc.ca/files/2022/10/Bandeira_Demirromantica-360x216.jpg" alt="demiromantic flag">
+</td>
+
+<td>
+  <img width="50" src="https://equity3.sites.olt.ubc.ca/files/2022/10/Omnisexuality_flag.svg_-360x216.png" alt="Omnisexual flag">
+</td>
+</tr> 
+<tr>
+  <td>
+    <img width="50" src="https://equity3.sites.olt.ubc.ca/files/2022/10/Genderqueer_pride_flag-360x216.png" alt="genderqueer flag">
+  </td>
+
+<td>
+  <img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxnCrx-Tk3tUGxbqzr5zHGX3Fh-11bFAjQYXuLUwRHZQ&s=10" alt="ambiamorous flag">
+</td>
+
+<td>
+  <img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoMBIQvDNEJkmfvif5aT_rI-_8OMlnlRUhDkr2kDHiEQ&s=10" alt="objectum flag">
+</td>
+</tr>
+</table>
+
 <div align="center">
  
 ✮⋆˙ [𝖳𝖴𝖬𝖡𝖫𝖱](https://www.tumblr.com/obsessive-jan) ˙⋆✮
@@ -77,183 +105,81 @@ In regards to being Proship/Anti-Harassment, I belive in no contact for illegal 
  
  <h4 align="center"> 【☆】GAMES【☆】  </h4>
 
- <p>
  <div align="center">
-   <br> <i><b>Batman Arkham</b></i>
-   <br> Sam & Max 
-   <br> Metal Gear Solid
-   <br> Yakuza/Like a Dragon
+   <br><i><b>Batman Arkham</b></i>
+   <br>Sam & Max 
+   <br>Metal Gear Solid
+   <br>Yakuza/Like a Dragon
+   <br>Papa Louie/Flipline
+   <br>Detroit:Become Human
+   <br>Mouthwashing
+   <br><i><b>Fnaf</b></i>
+   <br>Animal Crossing
+   <br>Genshin Impact
+   <br>Honkai Star Rail
+   <br>Overwatch 2
  </div>
- </p>
-
-  <div align="center">
-Papa Louie/Flipline
-  </div>
-   <div align="center">
-Detroit:Become Human
- </div>
-<div align="center">
-Mouthwashing
-</div>
- <div align="center">
-<i><b>Fnaf</b></i>
- </div>
-  <div align="center">
-Animal Crossing
-  </div>
-   <div align="center">
-Genshin Impact
-   </div>
-   <div align="center">
-Honkai Star Rail
-   </div>
-<div align="center">
-Overwatch 2
-   </div>
    
  <h4 align="center"> 【☆】MOVIES/SHOWS【☆】  </h4>
 
- <div align="center">
-<i><b>American Psycho</b></i>
- </div>
-  <div align="center">
-BBC Ghosts
- </div>
- <div align="center">
-Inbetweeners (UK)
- </div>
- <div align="center">
-<i><b>Anything Batman Related</b></i>
- </div>
- <div align="center">
-<i><b>Bill & Ted</b></i>
- </div>
- <div align="center">
-<i><b>2001: A Space Odyssey + 2010:  The Year We Make Contact</b></i>
- </div>
- <div align="center">
-<i><b>Cars</b></i>
- </div>
- <div align="center">
-One Piece
- </div>
 <div align="center">
-The Boys
+   <br><i><b>American Psycho</b></i>
+   <br>Inbetweeners (UK)
+   <br><i><b>Anything Batman Related</b></i>
+   <br><i><b>Bill & Ted</b></i>
+   <br><i><b>2001: A Space Odyssey + 2010:  The Year We Make Contact</b></i>
+   <br>Cars
+   <br>One Piece
+   <br>The Boys
+   <br>Garfield
+   <br>Newsies
+   <br>Ted Lasso
+   <br>Overwatch 2
+   <br>IASIP
+  <br>South Park
+  <br>Hazbin Hotel
+  <br>Supernatural
+  <br>LazyTown
  </div>
- <div align="center">
-Garfield
- </div>
- <div align="center">
-Newsies
- </div>
- <div align="center">
-Ted Lasso
- </div>
- <div align="center">
-IASIP
- </div>
- <div align="center">
-South Park
- </div>
- <div align="center">
-Hazbin Hotel
- </div>
-  <div align="center">
-Supernatural
- </div>
- <div align="center">
-LazyTown
-   </div>
  
   <h4 align="center"> 【☆】!PEOPLE/CHRACTERS I LOVE RN!【☆】  </h4>
 
- <div align="center">
-<i><b>Jerma985</b></i>
+<div align="center">
+   <br><i><b>Jerma985</b></i>
+   <br>Emelia (Dollhouse)
+   <br><i><b>HAL9000 (2001)</b></i>
+   <br><i><b>Jan Maas (Ted Lasso)</b></i>
+   <br>Logan Sargeant (Motorsport)
+   <br>Fernando Alonso (F1)
+   <br>Sampo Koski (HSR)
+   <br><i><b>Riddler (DC)</b></i>
+   <br><i><b>Scarecrow (DC)</b></i>
+   <br><i><b>Power Ring (DC)</b></i>
+   <br>Sam & Dean Winchester (SPN)
+   <br>Archangel Gabriel
+  <br>Graham Coxon
  </div>
-  <div align="center">
-Emelia (Dollhouse)
- </div>
-  <div align="center">
-<i><b>HAL9000 (2001)</b></i>
- </div>
-   <div align="center">
-<i><b>Jan Maas (Ted Lasso)</b></i>
- </div>
-  <div align="center">
-Logan Sargeant (F1/IndyCar)
- </div>
-   <div align="center">
-Fernando Alonso (F1)
- </div>
-   <div align="center">
-Sampo Koski (HSR)
- </div>
-  <div align="center">
-<i><b>Riddler (DC)</b></i>
- </div>
-  <div align="center">
-<i><b>Scarecrow (DC)</b></i>
- </div>
-   <div align="center">
-<i><b>Power Ring (DC)</b></i>
- </div>
-   <div align="center">
-Sam & Dean Winchester (SPN)
- </div>
-   <div align="center">
-Robert Chase (House)
- </div>
- <div align="center">
-Archangel Gabriel
- </div>
- <div align="center">
-Graham Coxon
-   </div>
 
  <h4 align="center"> 【☆】MUSICALS【☆】  </h4>
  
  <div align="center">
-NPMD + TGWDLM + WB
+   <br>NPMD + TGWDLM + WB
+   <br>Beetlejuice
+   <br>Newsies
+   <br>Heathers
  </div>
- <div align="center">
-Beetlejuice
- </div>
- <div align="center">
-Newsies
- </div>
- <div align="center">
-Heathers
-   </div>
- 
 
   <h4 align="center"> 【☆】MISC【☆】  </h4>
 
- <div align="center">
-<i><b>Formula 1</b></i>
- </div>
- <div align="center">
-Marble Hornets
- </div>
-   <div align="center">
-Mandela Catalogue
- </div>
-   <div align="center">
-<i><b>At Death's Door (1999)</b></i>
- </div>
- <div align="center">
-Pigeons
- </div>
-   <div align="center">
-<i><b>Jerma985</b></i>
- </div>
- <div align="center">
-AstralSpiff
- </div>
- <div align="center">
-ManlyBadassHero
- </div>
- <div align="center">
-Blur
+<div align="center">
+   <br>Formula 1
+   <br>Marble Hornets
+   <br>Mandela Catalogue
+   <br><i><b>At Death's Door (1999)</b></i>
+   <br><i><b>Jerma985</b></i>
+   <br>Pigeons
+   <br>AstralSpiff
+   <br>Blur
  </div>
 
 <h4 align="center"> 【☆】SHIPS【☆】  </h4>
@@ -262,86 +188,27 @@ Blur
  <i>I'm always willing to talk about!!! in no particular order ♡ 
  </p>
 
-  <div align="center">
-<i><b>Lucas/Clancy (RE7)</b></i>
- </div>
- 
- <div align="center">
-Bill/Ted
- </div>
-
- <div align="center">
-Wincest/Gencest (SPN) + J2 (Actor RPF) + Dean/Sam/Spencer (SPN + CM)
- </div>
-
- <div align="center">
-Norgeant, Nortrell, Sargetrell, Webbonso, Strollonso, Norstappen, Leclercest etc! (F1 RPF)
- </div>
-
- <div align="center">
-<i><b>Halman (2001)</b></i>
- </div>
-
 <div align="center">
-JimCurly (MW)
+   <br><i><b>Lucas/Clancy (RE7)</b></i>
+   <br>Bill/Ted
+   <br>
+Wincest/Gencest (SPN) + J2 (Actor RPF) + Dean/Sam/Spencer (SPN + CM) + Miadam (SPN)
+   <br>Norgeant, Nortrell, Sargetrell, Webbonso, Strollonso, Norstappen, Leclercest etc! (F1 RPF)
+   <br><i><b>Halman (2001)</b></i>
+   <br>JimCurly (MW)
+   <br>Chouse (House MD)
+   <br>Convin (DBH)
+  <br><i><b>Riddlecrow/Sciddler + SladeRobin (DC)</b></i>
+  <br>CharDen (IASIP)
+  <br>SaiKai (Saiki k)
+  <br>NatShig (MHA)
+  <br><i><b>Young Reaper/Tom (ADD 1999)</b></i>
+  <br><i><b>Ayaitto (Genshin)</b></i>
+  <br><i><b>Jlud (RPF)</b></i>
+  <br>Homura/Madoka (MM)
+  <br><i><b>Sparkle/Sampo (HSR)</b></i>
+  <br>Chainshipping (Saw)
+  <br>PerfectWorldShipping (Pokemon)
+  <br>Gramon (Blur)
+  <br>Gallaghercest (Oasis)
  </div>
-
- <div align="center">
-Chouse (House MD)
- </div>
-
-  <div align="center">
-Convin (DBH)
- </div>
-
-  <div align="center">
-<i><b>Riddlecrow/Sciddler, SladeRobin (DC)</b></i>
- </div>
-
-<div align="center">
-CharDen (IASIP)
- </div>
-
-<div align="center">
-SaiKai (Saiki k)
- </div>
- 
- <div align="center">
-NatShig (MHA)
- </div>
- 
- <div align="center">
-<i><b>Young Reaper/Tom (ADD 1999)</b></i>
- </div>
-
-<div align="center">
-<i><b>Ayaitto (Genshin)</b></i>
- </div>
-
-<div align="center">
-<i><b>Jlud (RPF)</b></i>
- </div>
-
- <div align="center">
-Homura/Madoka (MM)
- </div>
-
- <div align="center">
-<i><b>Sparkle/Sampo (HSR)</b></i>
- </div>
-
- <div align="center">
-Chainshipping (Saw)
- </div>
-
-<div align="center">
-PerfectWorldShipping (Pokemon)
- </div>
-
-<div align="center">
-Gramon (Blur)
-   </div>
-
-   <div align="center">
-Gallaghercest
-   </div>
