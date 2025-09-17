@@ -16,7 +16,7 @@
   Anyways, welcome to my "bio" and I hope you enjoy your stay! ♡
 </p>
 
-<table align="center">
+<table align="center" border="none">
 <tr>
 <td><img width="20" src="https://equity3.sites.olt.ubc.ca/files/2022/10/Demisexual_Flag-360x216.jpg" alt="demisexual flag"></td>
   
@@ -37,12 +37,6 @@
   <img width="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoMBIQvDNEJkmfvif5aT_rI-_8OMlnlRUhDkr2kDHiEQ&s=10" alt="objectum flag"></td>
 </tr>
 </table>
-
-<style>
-.tab {border-collapse:collapse;}
-.tab .first {border-bottom:0px solid #EEE;}
-.tab .second {border-top:0px solid #CCC;box-shadow: inset 0 0px 0 #CCC;}​
-</style>
 
 <div align="center">
  
