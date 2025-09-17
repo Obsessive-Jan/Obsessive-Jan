@@ -77,11 +77,11 @@ In regards to being Proship/Anti-Harassment, I belive in no contact for illegal 
  
  <h4 align="center"> 【☆】GAMES【☆】  </h4>
 
- <body align="centre">
- test 
- test
- test
- </body>
+ <p>align="centre">
+ <br> test 
+ <br> test
+ <br> test
+ </p>
 
  <div align="center">
 <i><b>Batman Arkham</b></i>
