@@ -139,7 +139,7 @@ In regards to being Proship/Anti-Harassment, I belive in no contact for illegal 
    <br><i><b>Scarecrow (DC)</b></i>
    <br><i><b>Power Ring (DC)</b></i>
    <br>Sam & Dean Winchester (SPN)
-   <br>Archangel Gabriel
+   <br>Jay Cartwright
   <br>Graham Coxon
  </div>
 
