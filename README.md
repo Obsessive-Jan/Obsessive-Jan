@@ -185,7 +185,7 @@ Wincest/Gencest (SPN) + J2 (Actor RPF) + Dean/Sam/Spencer (SPN + CM) + Miadam (S
    <br>JimCurly (MW)
    <br>Chouse (House MD)
    <br>Convin (DBH)
-  <br><i><b>Riddlecrow/Sciddler (DC)</b></i>
+  <br><i><b>Scriddler (DC)</b></i>
   <br>CharDen (IASIP)
   <br>SaiKai (Saiki k)
   <br><i><b>Young Reaper/Tom (ADD 1999)</b></i>
