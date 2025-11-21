@@ -70,14 +70,14 @@
 <i>The link is a great in depth explanation but PLEASE do your own research on the topic to make up your own opinion on the subjects, be your own person
 
 
-In regards to being Proship/Anti-Harassment, I belive in no contact for illegal paras, that everything I take part in reading/writing/drawing is FICTION and this doesn't normalises or support anything in reality, I follow and advocate don't like, don't int/read as well as ship and let ship, using exclude tags to filter content (specifically fanfics in this context) and the saying YKINMKATO. Proship ≠ Problematic Ship(ing), Proship = Pro(prefix definion: Favouring; Supporting) Ship(ping). I don't agree with using real laws on fictional characters or situations
+In regards to being Proship/Anti-Harassment, I belive in no contact for illegal paras, that everything I take part in reading/writing/drawing/roleplay is FICTION and this doesn't normalises or support anything in reality, I follow and advocate don't like don't int/read, ship and let ship, using exclude tags to filter content (specifically ao3 fanfics in this context) and YKINMKATO. Proship ≠ Problematic Ship(ing), Proship = Pro(prefix definion: Favouring; Supporting) Ship(ping). I don't agree with using real laws on fictional characters or situations
  
  Its 100% ok for us to have different views and still interact and be friends/mutuals as long as you do not actively _harass_ the things I and others like.
  
- However, If you don't like these views, it is also ok to not interact
+ However, If you don't like these views, it is also ok to not interact,
    the close tab and block button are free and thats the great thing about it, if you want to use it!
 
-   If you're still here, I thank you for reading all that and I also apologise for ranting, I feel semi passionate about these thinks sometimes.
+   If you're still here, I thank you for reading all that and I also apologise for ranting, I feel semi passionate about these things sometimes.
  </div>
  
  <h2 align="center"> ${\textsf{\color{DarkOliveGreen}♪¸¸.•*¨*•. Interests! .•*¨*•.¸¸♪}}$ </h2>
@@ -109,20 +109,19 @@ In regards to being Proship/Anti-Harassment, I belive in no contact for illegal 
    <br><i><b>American Psycho</b></i>
    <br>Inbetweeners (UK)
    <br><i><b>Anything Batman Related</b></i>
-   <br><i><b>Bill & Ted</b></i>
+   <br>Bill & Ted
    <br><i><b>2001: A Space Odyssey + 2010:  The Year We Make Contact</b></i>
+   <br><i><b>The Beatles (Cartoon 1965)</i></b>
    <br>Cars
    <br>One Piece
    <br>The Boys
    <br>Garfield
-   <br>Newsies
    <br>Ted Lasso
    <br>Overwatch 2
    <br>IASIP
   <br>South Park
   <br>Hazbin Hotel
   <br>Supernatural
-  <br>LazyTown
  </div>
  
   <h4 align="center"> 【☆】!PEOPLE/CHRACTERS I LOVE RN!【☆】  </h4>
@@ -137,10 +136,12 @@ In regards to being Proship/Anti-Harassment, I belive in no contact for illegal 
    <br>Sampo Koski (HSR)
    <br><i><b>Riddler (DC)</b></i>
    <br><i><b>Scarecrow (DC)</b></i>
-   <br><i><b>Power Ring (DC)</b></i>
    <br>Sam & Dean Winchester (SPN)
    <br>Jay Cartwright
   <br>Graham Coxon
+  <br>Noel & Liam Gallagher
+  <br>Ringo Starr ☮️✌️💞💗🌟✨💫
+  <br><b><i>Billy Shears (Beatles AU)</i></b>
  </div>
 
  <h4 align="center"> 【☆】MUSICALS【☆】  </h4>
@@ -163,6 +164,9 @@ In regards to being Proship/Anti-Harassment, I belive in no contact for illegal 
    <br>Pigeons
    <br>AstralSpiff
    <br>Blur
+   <br>Oasis
+   <br>The Beatles
+   <br>Tally Hall
  </div>
 
 <h4 align="center"> 【☆】SHIPS【☆】  </h4>
@@ -181,10 +185,9 @@ Wincest/Gencest (SPN) + J2 (Actor RPF) + Dean/Sam/Spencer (SPN + CM) + Miadam (S
    <br>JimCurly (MW)
    <br>Chouse (House MD)
    <br>Convin (DBH)
-  <br><i><b>Riddlecrow/Sciddler + SladeRobin (DC)</b></i>
+  <br><i><b>Riddlecrow/Sciddler (DC)</b></i>
   <br>CharDen (IASIP)
   <br>SaiKai (Saiki k)
-  <br>NatShig (MHA)
   <br><i><b>Young Reaper/Tom (ADD 1999)</b></i>
   <br><i><b>Ayaitto (Genshin)</b></i>
   <br><i><b>Jlud (RPF)</b></i>
@@ -194,4 +197,9 @@ Wincest/Gencest (SPN) + J2 (Actor RPF) + Dean/Sam/Spencer (SPN + CM) + Miadam (S
   <br>PerfectWorldShipping (Pokemon)
   <br>Gramon (Blur)
   <br>Gallaghercest (Oasis)
+  <br>Gramongallaghercest (RPF)
+  <br>Most variations of Beatles ships, e.g. Mclennon, Lennstarr, Starrison, Mcstarr, Lennison etc. (RPF)
+  <br><i><b>PolyBeatles! (The Beatles)</b></i>
+  <br>John/Billy Shears/Paul (The Beatles AU)
+  <br>Billy Shears/Ringo (The Beatles AU)
  </div>
