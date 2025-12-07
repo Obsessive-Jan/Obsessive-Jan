@@ -114,7 +114,6 @@ In regards to being Proship/Anti-Harassment, I belive in no contact for illegal 
    <br><i><b>The Beatles (Cartoon 1965)</i></b>
    <br>Cars
    <br>One Piece
-   <br>The Boys
    <br>Garfield
    <br>Ted Lasso
    <br>Overwatch 2
@@ -138,7 +137,6 @@ In regards to being Proship/Anti-Harassment, I belive in no contact for illegal 
    <br><i><b>Scarecrow (DC)</b></i>
    <br>Sam & Dean Winchester (SPN)
    <br>Jay Cartwright
-  <br>Graham Coxon
   <br>Noel & Liam Gallagher
   <br>Ringo Starr ☮️✌️💞💗🌟✨💫
   <br><b><i>Billy Shears (Beatles AU)</i></b>
@@ -165,7 +163,7 @@ In regards to being Proship/Anti-Harassment, I belive in no contact for illegal 
    <br>AstralSpiff
    <br>Blur
    <br>Oasis
-   <br>The Beatles
+   <br><i><b>The Beatles</i></b>
    <br>Tally Hall
  </div>
 
@@ -193,6 +191,7 @@ Wincest/Gencest (SPN) + J2 (Actor RPF) + Dean/Sam/Spencer (SPN + CM) + Miadam (S
   <br><i><b>Jlud (RPF)</b></i>
   <br>Homura/Madoka (MM)
   <br><i><b>Sparkle/Sampo (HSR)</b></i>
+  <br><i><b>RuanHerta (HSR)</i></b>
   <br>Chainshipping (Saw)
   <br>PerfectWorldShipping (Pokemon)
   <br>Gramon (Blur)
@@ -200,6 +199,3 @@ Wincest/Gencest (SPN) + J2 (Actor RPF) + Dean/Sam/Spencer (SPN + CM) + Miadam (S
   <br>Gramongallaghercest (RPF)
   <br>Most variations of Beatles ships, e.g. Mclennon, Lennstarr, Starrison, Mcstarr, Lennison etc. (RPF)
   <br><i><b>PolyBeatles! (The Beatles)</b></i>
-  <br>John/Billy Shears/Paul (The Beatles AU)
-  <br>Billy Shears/Ringo (The Beatles AU)
- </div>
